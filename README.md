@@ -31,7 +31,9 @@
 
 > **ViperMonkey -** ViperMonkey is a VBA Emulation engine written in Python, designed to analyze and deobfuscate malicious VBA Macros.
 
-> **Lazy Office Analyzer** 
+> **Lazy Office Analyzer -** Loffice is making use of WinAppDbg to extract URLs' from Office documents but also VB-script and Javascript.
+- Use the below link to install Loffice and its requirements.
+- https://github.com/tehsyntx/loffice
 
 ## Malware Sample
 
