@@ -297,6 +297,13 @@ in file: baddoc.doc - OLE stream: 'Macros/VBA/UserForm1'
 +--------------------+---------------------------+---------------------------+
 ```
 
+## Tool - Lazy Office Analyzer
+
+- **Use this tool in isolated Windows sandbox environment only.**
+
+> ***`loffice.py [options] <type> <exit-on> <filename>`***
+
+![image](https://user-images.githubusercontent.com/43460691/209704332-b19bd171-067e-4491-96f1-6658638b88a6.png)
 
 
 
