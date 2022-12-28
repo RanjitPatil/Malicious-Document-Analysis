@@ -1,7 +1,3 @@
-![image](https://user-images.githubusercontent.com/43460691/209828797-95bfbb6a-41dc-486a-8223-5e5868cb4c37.png)
-
-
-
 # Malicious Document Analysis
 
 ## Office Document Formats :
@@ -41,9 +37,9 @@
 
 ## Malware Sample
 
-> **MD5:** 2264DD0EE26D8E3FBDF715DD0D807569
+> **MD5:**  a3b613d128aace09241504e8acc678c2
 
-> **SHA256:** ad6cedb0d1244c1d740bf5f681850a275c4592281cdebb491ce533edd9d6a77d
+> **SHA256:**  8b92c23b29422131acc150fa1ebac67e1b0b0f8cfc1b727805b842a88de447de
 
 ## Tool - exiftool
 
