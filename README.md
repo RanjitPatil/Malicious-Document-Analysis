@@ -76,6 +76,8 @@
 
 - Below is the only analysis of the olevba tool, you can check attached vba script extracted by olevba tool.
 
+- Check the below output, olevba shows the suspicious keywords from the file and there descripation.
+
 ```
 -------------------------------------------------------------------------------
 VBA MACRO UserForm1.frm 
