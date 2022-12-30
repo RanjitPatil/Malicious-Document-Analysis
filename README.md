@@ -307,6 +307,33 @@ in file: baddoc.doc - OLE stream: 'Macros/VBA/UserForm1'
 
 ![image](https://user-images.githubusercontent.com/43460691/209704332-b19bd171-067e-4491-96f1-6658638b88a6.png)
 
+> ***`C:\Users\windows\Desktop\mal_office> loffice.py -p "C:\Progam Files\Microsoft Office\Office15"word proc baddoc.doc`***
+
+
+![image](https://user-images.githubusercontent.com/43460691/210044614-98caaeb4-c3c3-48be-9fb3-d4b0424bfc0d.png)
+![image](https://user-images.githubusercontent.com/43460691/210044664-e991a39e-2c5f-468b-bf43-701e192293e9.png)
+
+- We know that from ViperMonkey output this file creating files in users Tmp directory, Same you can check in above output as well.
+
+- This word file created below three process in users temp directory.
+
+![image](https://user-images.githubusercontent.com/43460691/210045562-4508cf25-100c-413f-a3fa-8a3c31b46d93.png)
+
+![image](https://user-images.githubusercontent.com/43460691/210045713-4e47b28a-57e7-40ea-8f84-5128f4d83bee.png)
+
+
+![image](https://user-images.githubusercontent.com/43460691/210045764-16c53d4b-c1a9-4347-9cce-9e9ab31aeb50.png)
+
+![image](https://user-images.githubusercontent.com/43460691/210045958-2004d1f3-b3e9-4b09-89e5-7297517cc442.png)
+
+
+![image](https://user-images.githubusercontent.com/43460691/210046149-f27fbb3c-074b-41bc-85e2-bea1389f0308.png)
+
+
+
+
+
+
 
 
 
