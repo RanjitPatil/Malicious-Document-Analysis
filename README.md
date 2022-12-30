@@ -313,21 +313,38 @@ in file: baddoc.doc - OLE stream: 'Macros/VBA/UserForm1'
 ![image](https://user-images.githubusercontent.com/43460691/210044614-98caaeb4-c3c3-48be-9fb3-d4b0424bfc0d.png)
 ![image](https://user-images.githubusercontent.com/43460691/210044664-e991a39e-2c5f-468b-bf43-701e192293e9.png)
 
+- loffice also create log file.
+
+![image](https://user-images.githubusercontent.com/43460691/210046149-f27fbb3c-074b-41bc-85e2-bea1389f0308.png)
+
 - We know that from ViperMonkey output this file creating files in users Tmp directory, Same you can check in above output as well.
 
 - This word file created below three script files in users temp directory and executing from there.
 
 ![image](https://user-images.githubusercontent.com/43460691/210045562-4508cf25-100c-413f-a3fa-8a3c31b46d93.png)
 
+- If you check the loffice output we can see document file executing bash script c:\Windows\Temp\adobeacd-update.bat.
+
+- This bash script is furher executing adobeacd-update.vbs script.
+
 ![image](https://user-images.githubusercontent.com/43460691/210045713-4e47b28a-57e7-40ea-8f84-5128f4d83bee.png)
 
+- adobeacd-update.vbs script concatenating powershell scrpit and executing it.
 
 ![image](https://user-images.githubusercontent.com/43460691/210045764-16c53d4b-c1a9-4347-9cce-9e9ab31aeb50.png)
 
+- If you look into below powershell script, this script connecting external domain and downloading second stage payload **install.exe.**
+
+- After execution of the it deleting the all files drom the folder.
+
 ![image](https://user-images.githubusercontent.com/43460691/210045958-2004d1f3-b3e9-4b09-89e5-7297517cc442.png)
 
+## References :
 
-![image](https://user-images.githubusercontent.com/43460691/210046149-f27fbb3c-074b-41bc-85e2-bea1389f0308.png)
+- https://www.hybrid-analysis.com/sample/8b92c23b29422131acc150fa1ebac67e1b0b0f8cfc1b727805b842a88de447de/5e99e70d81a0de676760bdfb
+- https://github.com/tehsyntx/loffice
+
+
 
 
 
