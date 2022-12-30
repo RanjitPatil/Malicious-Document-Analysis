@@ -57,14 +57,22 @@
 
 > ***`REMnux: yara -w (yara rules location)~/Documents/rules-master/index.yar baddoc.doc`***
 
-![image](https://user-images.githubusercontent.com/43460691/209569642-5792ffa7-f6aa-45cf-bfca-0bae51d35a77.png)
-
 
 - We are scanning file using yara rules.
 
 - You can check the below output,yara detect malicious macro in the file.
 
 ![image](https://user-images.githubusercontent.com/43460691/209568437-754e2ae6-1647-4689-bd04-9154bfc29f71.png)
+
+- You can use below search options.
+
+  -W : Turn off warnings
+  
+  -g : Print tags
+  
+  -m : Print metadata
+  
+  -s : Print matching string
 
 ## Tool - olevba
 
