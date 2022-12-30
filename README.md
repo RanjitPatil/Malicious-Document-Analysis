@@ -315,7 +315,7 @@ in file: baddoc.doc - OLE stream: 'Macros/VBA/UserForm1'
 
 - We know that from ViperMonkey output this file creating files in users Tmp directory, Same you can check in above output as well.
 
-- This word file created below three process in users temp directory.
+- This word file created below three script files in users temp directory and executing from there.
 
 ![image](https://user-images.githubusercontent.com/43460691/210045562-4508cf25-100c-413f-a3fa-8a3c31b46d93.png)
 
