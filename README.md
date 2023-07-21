@@ -145,7 +145,7 @@ in file: baddoc.doc - OLE stream: 'Macros/VBA/UserForm1'
 
 - We are using this tool to analyze and deobfuscate malicious VBA Macros. This tool will parsed the vba code.
 
-``` Recorded Actions:
+``` 
 +--------------------+---------------------------+---------------------------+
 | Action             | Parameters                | Description               |
 +--------------------+---------------------------+---------------------------+
