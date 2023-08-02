@@ -354,9 +354,6 @@ in file: baddoc.doc - OLE stream: 'Macros/VBA/UserForm1'
 
 
 
-![image](https://github.com/RanjitPatil/Malicious-Document-Analysis/assets/43460691/cccfd71c-3bcb-4422-affc-c055550a3143)
-
-
 
 
 
